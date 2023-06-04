@@ -1,3 +1,4 @@
+--- ur fuckin fat
 pcall(function()
 local espcolor = Color3.fromRGB(242, 243, 243)
 local wallhack_esp_transparency = .4
@@ -582,7 +583,7 @@ mouse.KeyDown:Connect(function(a)
 			Aim_Assist = true
 		end
 	end
-	if a == "j" then
+	if a == "m" then
 		if mouse.Target then
 			mouse.Target:Destroy()
 		end
